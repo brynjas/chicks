@@ -1,0 +1,19 @@
+package com.tictactoe.com;
+
+public class Player{
+
+    private char symbol;
+    // private int score = 0;
+
+    public Player (char s){
+	symbol = s;
+    }
+    
+
+   
+    public char getSymbol{
+
+	return symbol;
+    }
+
+}
