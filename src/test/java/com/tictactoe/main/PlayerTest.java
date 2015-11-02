@@ -4,8 +4,8 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class PlayerTest {
-	final player pX = new Player('X'); 
-	final player pO = new Player('O');
+	final Player pX = new Player('X'); 
+	final Player pO = new Player('O');
 
 	@Test
 	public void testPlayerSymbol_X()
