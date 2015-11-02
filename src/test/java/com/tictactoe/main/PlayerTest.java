@@ -1,4 +1,4 @@
-package com.tictactoe.java
+package com.tictactoe.java;
 
 import static org.junit.Assert.*;
 import org.junit.Test;

@@ -175,4 +175,4 @@ public class GameTest
 	    assertEquals(true, testGame2.checkTie());
 	}
 
-
+}
