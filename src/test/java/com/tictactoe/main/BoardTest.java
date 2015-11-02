@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class TicTacToeTest{
+public class BoardTest{
 	
     //Test if Board class creates 3*3 char array
     @Test
