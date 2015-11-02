@@ -1,0 +1,7 @@
+#!/bin/bash
+
+./gradlew installDist
+rm -rf /tmp/install
+cp -r ~/chicks/build/install /tmp/
+chmod 777 -R /tmp/install
+/tmp/install/chiks/bin/chicks
